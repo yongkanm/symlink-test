@@ -1,0 +1,8 @@
+[submodule "v2.0.0"]
+	path = v2.0.0
+	url = https://github.com/yongkanm/symlink-test.git
+	branch = v2.0.0
+[submodule "v1.0.0"]
+	path = v1.0.0
+	url = https://github.com/yongkanm/symlink-test.git
+	branch = v1.0.0
